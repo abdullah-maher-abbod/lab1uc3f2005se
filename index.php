@@ -1,8 +1,8 @@
 <html>
   <head>
-      <title><learn for first program!</title>
-   </head>
+      <title>learn for first program!</title>
+  </head>
    <body>
-      <p>Hello world</p> 
-     </body>
-     </html>
+      <p> Hello world </p> 
+   </body>
+</html>
